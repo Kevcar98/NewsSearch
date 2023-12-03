@@ -13,8 +13,9 @@ NewsSearch is an Android application that allows users to search for news articl
 - **Text-to-Speech:** Listen to the article description using the built-in Text-to-Speech functionality.  (If there is no description or if the description is returned as null TTS will say "Description not available for" followed by the title name of the article)
 
 ## Screenshots
-![App Screenshot 1 - Replace with your own screenshots](NewsSearch_Screenshot_Home.jpg)
-![App Screenshot 2 - Replace with your own screenshots](NewsSearch_Screenshot_News.jpg)
+![App Screenshot 1] - The Home Page (NewsSearch_Screenshot_Home.jpg)
+![App Screenshot 2]- A Search Example(NewsSearch_Screenshot_News.jpg)
+![App Screenshot 3] -A News Example(NewsSearch_Screenshot_Example.jpg)
 
 ## Getting Started
 

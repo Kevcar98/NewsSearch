@@ -11,7 +11,8 @@ NewsSearch is an Android application that allows users to search for news articl
 - **View Details:** Tap on a news article to view details, including the title and a brief description.
 - **Read Full Article:** Open the full article in a WebView for an immersive reading experience.
 - **Text-to-Speech:** Listen to the article description using the built-in Text-to-Speech functionality.
-
+- 
+## Screenshots
 ![App Screenshot 1 - Replace with your own screenshots](NewsSearch_Screenshot_Home.jpg)
 ![App Screenshot 2 - Replace with your own screenshots](NewsSearch_Screenshot_News.jpg)
 

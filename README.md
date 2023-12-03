@@ -5,6 +5,8 @@
 
 NewsSearch is an Android application that allows users to search for news articles based on keywords and date ranges. The app utilizes the News API to fetch real-time news data and provides a user-friendly interface for browsing and exploring news articles.
 
+When Typing the date when searching make sure it is in this format: YYYY-MM-DD
+
 ## Features
 
 - **Search News:** Enter keywords and date range to search for relevant news articles.

@@ -161,7 +161,7 @@ class MainActivity : AppCompatActivity(), OnInitListener {
                 // Read out the article description using TextToSpeech
                 Log.d("TAG", "Description=${article.description}")
                 val descriptionMSG = if (!article.description.isNullOrEmpty()) {
-                    "Description: $article.description"
+                    "$article.description"
                 } else {
                     "Description not available for ${article.title}"
                 }

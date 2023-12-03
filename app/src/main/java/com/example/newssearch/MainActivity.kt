@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity(), OnInitListener {
 
         // Set language and API key
         val language = "en"
-        val apiKey = "9e2ee164d9134f7d918d06c7b2385064"
+        val apiKey = "710119f4520a4c25b4ab12e46322e7db"
 
         // Get references to UI elements
         val TUserSearchText = findViewById<EditText>(R.id.UserInputTitleSearch)
